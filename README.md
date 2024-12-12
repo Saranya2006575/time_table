@@ -154,6 +154,7 @@ Execute the program using runserver command.
     </table>
 </body>
 ```
+
 # OUTPUT 
 
 ![alt text](<Screenshot 2024-12-05 173747.png>)
